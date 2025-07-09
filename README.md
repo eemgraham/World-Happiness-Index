@@ -19,7 +19,7 @@ Freedom to make life choices
 
 Generosity
 
-And more...
+And more
 
 🛠 Features
 ✅ Data cleaning and preprocessing
@@ -33,13 +33,9 @@ And more...
 ✅ Summary statistics and exploratory data analysis (EDA)
 
 📁 Project Structure
-perl
-Copy
-Edit
 📦 world-happiness-index-analysis
-├── 📄 README.md
-├── 📄 requirements.txt
-├── 📊 world_happiness_data.csv
+📄 README.md
+📊 world_happiness_data.csv
 ├── 📓 analysis.ipynb
 └── 🐍 analysis.py
 world_happiness_data.csv: Dataset containing happiness and contributing metrics by country
@@ -58,7 +54,7 @@ Correlation Analysis: Used df.corr() to calculate Pearson correlation coefficien
 Visualisation: Created heatmaps and scatterplots to visualize relationships between variables.
 
 🔍 Key Insights
-Countries with higher GDP per Capita and Freedom to make life choices consistently score higher on the happiness index.
+Countries with higher GDP per capita and freedom to make life choices consistently score higher on the happiness index.
 
 A negative correlation was observed between perceived corruption and happiness.
 
