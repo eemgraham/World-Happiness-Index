@@ -35,16 +35,12 @@ And more
 📁 Project Structure
 📦 world-happiness-index-analysis
 📄 README.md
-📊 world_happiness_data.csv
-├── 📓 analysis.ipynb
-└── 🐍 analysis.py
-world_happiness_data.csv: Dataset containing happiness and contributing metrics by country
+📊 WHI_Inflation.csv
+📓 World_Happiness_Index.ipynb
 
-analysis.ipynb: Jupyter Notebook with code and visualizations
+WHI_Inflation.csv: Dataset containing happiness and contributing metrics by country
 
-analysis.py: Python script for command-line usage (optional)
-
-requirements.txt: Python dependencies
+World_Happiness_Index.ipynb: Jupyter Notebook with code and visualizations
 
 📈 Methods
 Data Cleaning: Handled missing values, renamed columns for clarity, ensured numeric types where necessary.
