@@ -45,7 +45,7 @@ World_Happiness_Index.ipynb: Jupyter Notebook with code and visualizations
 # 📈 Methods
 Data Cleaning: Handled missing values, renamed columns for clarity, ensured numeric types where necessary.
 
-Correlation Analysis: Used df.corr() to calculate Kendall correlation coefficients between happiness scores and other variables.
+Correlation Analysis: Used df.corr() to calculate Spearman correlation coefficients between happiness scores and other variables.
 
 Visualisation: Created heatmaps and scatterplots to visualize relationships between variables.
 
