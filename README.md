@@ -50,11 +50,13 @@ Correlation Analysis: Used df.corr() to calculate Spearman correlation coefficie
 Visualisation: Created heatmaps and scatterplots to visualize relationships between variables.
 
 # 🔍 Key Insights
-Countries with higher GDP per capita and freedom to make life choices consistently score higher on the happiness index.
+Strongest drivers of happiness are perceived integrity, wealth, freedom, and health.
 
-A negative correlation was observed between perceived corruption and happiness.
+Inflation, especially for essentials like food, shows a small but consistent negative correlation with happiness.
 
-Social support and life expectancy are also good indicators of higher happiness levels.
+The low correlation of energy inflation might reflect subsidies, delayed consumer effects, or government intervention.
+
+plt.savefig('images/score_correlation_heatmap.png', dpi=300, bbox_inches='tight')
 
 # 📂 Data Source
 The World Happiness Index data used in this project was obtained from [Kaggle](https://www.kaggle.com/).  
