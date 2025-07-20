@@ -47,7 +47,7 @@ Data Cleaning: Handled missing values, renamed columns for clarity, ensured nume
 
 Correlation Analysis: Used df.corr() to calculate Spearman correlation coefficients between happiness scores and other variables.
 
-Visualisation: Created heatmaps and scatterplots to visualize relationships between variables.
+Visualisation: Created heatmaps to visualize relationships between variables.
 
 # 🔍 Key Insights
 Strongest drivers of happiness are perceived integrity, wealth, freedom, and health.
@@ -56,7 +56,8 @@ Inflation, especially for essentials like food, shows a small but consistent neg
 
 The low correlation of energy inflation might reflect subsidies, delayed consumer effects, or government intervention.
 
-plt.savefig('images/score_correlation_heatmap.png', dpi=300, bbox_inches='tight')
+<img width="790" height="590" alt="WHI Correlation" src="https://github.com/user-attachments/assets/87a253b1-5904-42c7-9d85-e99cb902233e" />
+
 
 # 📂 Data Source
 The World Happiness Index data used in this project was obtained from [Kaggle](https://www.kaggle.com/).  
