@@ -1,5 +1,4 @@
-# World-Happiness-Index-Analysis
-🌍 World Happiness Index Analysis
+# 🌍 World Happiness Index Analysis
 This repository contains a Python-based data analysis project focused on the World Happiness Index, exploring how various factors like GDP, inflation, and perceived corruption influence happiness levels across different countries.
 
 # 📊 Project Overview
