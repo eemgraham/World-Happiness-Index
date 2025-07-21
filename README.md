@@ -62,7 +62,8 @@ The low correlation of energy inflation might reflect subsidies, delayed consume
 The insights from my analysis suggest several actionable directions for policymakers aiming to improve population well-being:
 
 ✅ Strengthen Institutional Integrity
-What I found: Perceived integrity has the strongest correlation with happiness.
+What I found:
+Perceived integrity has the strongest correlation with happiness.
 
 Policy response:
 
@@ -73,7 +74,8 @@ Invest in civic education and open government initiatives.
 Promote judicial independence and accountability mechanisms.
 
 💰 Address Wealth Inequality and Economic Security
-What I found: Wealth is a strong driver of happiness.
+What I found:
+wealth is a strong driver of happiness.
 
 Policy response:
 
@@ -84,7 +86,8 @@ Expand social safety nets and minimum income guarantees.
 Encourage asset-building programs, such as affordable housing and retirement savings.
 
 🗽 Safeguard Personal Freedoms
-What I found: Freedom to make life choices is a key contributor to happiness.
+What I found:
+Freedom to make life choices is a key contributor to happiness.
 
 Policy response:
 
@@ -118,7 +121,7 @@ Compare happiness across income brackets within countries.
 Test if happiness gains diminish at higher income levels (i.e., diminishing returns).
 
 2. Regional Subnational Comparison
-What to do: Analyze wealth and happiness at regional/state/provincial levels within countries.
+What to do: Analyse wealth and happiness at regional/state/provincial levels within countries.
 
 Goal: Understand how local economic conditions correlate with subjective well-being.
 
